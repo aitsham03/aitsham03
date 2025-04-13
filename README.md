@@ -2,7 +2,7 @@
 
 <p align="center"> 
   <a href="https://github.com/aitsham03">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/[aitsham03]?style=for-the-badge&logo=github">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/aitsham03?style=for-the-badge&logo=github">
   </a>
 </p>
 
@@ -21,14 +21,14 @@
 
 <p align="center">
   <a href="https://github.com/aitsham03">
-    <img height="150" src="https://github-readme-stats.vercel.app/api?username=[aitsham03]&show_icons=true&theme=radical&hide_border=true" />
-    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[aitsham03]&layout=compact&theme=radical&hide_border=true" />
+    <img height="150" src="https://github-readme-stats.vercel.app/api?username=aitsham03&show_icons=true&theme=radical&hide_border=true" />
+    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aitsham03&layout=compact&theme=radical&hide_border=true" />
   </a>
 </p>
 
 ### 🎯 &nbsp;Current Focus  
 
 ```text
-🌱 Learning:    [What you're learning]
-🔭 Working on:  [Your current project]
-📚 Exploring:   [New technologies]
+🌱 Learning:    Computer science
+🔭 Working on:  Colliding computing with Pi
+📚 Exploring:   New langages
