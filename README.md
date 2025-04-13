@@ -1,16 +1,34 @@
-## Hi there 👋
+<h1 align="center">🚀 Hey There! I'm Aitsham</h1>
 
-<!--
-**aitsham03/aitsham03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"> 
+  <a href="https://github.com/[aitsham03]">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/[aitsham03]?style=for-the-badge&logo=github">
+  </a>
+</p>
 
-Here are some ideas to get you started:
+- 🌟 **Currently:** Engineering school
+- � **Background:** Preparatory classes  
+- 💡 **Passionate about:** Health, physics, data, applied mathematics 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ &nbsp;My Toolbox  
+
+![Python](https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=python)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript&logoColor=F0DB4F)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=for-the-badge&logo=typescript)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git)&nbsp;
+
+### 📊 &nbsp;GitHub Analytics  
+
+<p align="center">
+  <a href="https://github.com/[aitsham03]">
+    <img height="150" src="https://github-readme-stats.vercel.app/api?username=[aitsham03]&show_icons=true&theme=radical&hide_border=true" />
+    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[aitsham03]&layout=compact&theme=radical&hide_border=true" />
+  </a>
+</p>
+
+### 🎯 &nbsp;Current Focus  
+
+```text
+🌱 Learning:    [What you're learning]
+🔭 Working on:  [Your current project]
+📚 Exploring:   [New technologies]
