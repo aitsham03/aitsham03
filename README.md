@@ -1,7 +1,7 @@
 <h1 align="center">🚀 Hey There! I'm Aitsham</h1>
 
 <p align="center"> 
-  <a href="https://github.com/[aitsham03]">
+  <a href="https://github.com/aitsham03">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/[aitsham03]?style=for-the-badge&logo=github">
   </a>
 </p>
@@ -20,7 +20,7 @@
 ### 📊 &nbsp;GitHub Analytics  
 
 <p align="center">
-  <a href="https://github.com/[aitsham03]">
+  <a href="https://github.com/aitsham03">
     <img height="150" src="https://github-readme-stats.vercel.app/api?username=[aitsham03]&show_icons=true&theme=radical&hide_border=true" />
     <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[aitsham03]&layout=compact&theme=radical&hide_border=true" />
   </a>
